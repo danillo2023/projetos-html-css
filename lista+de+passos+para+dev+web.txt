@@ -1,0 +1,15 @@
+<ul>
+						<li>Aprenda HTML e CSS</li>
+						<li>Crie projetos Front End para iniciar o seu portfólio</li>
+						<li>Caso ainda não tenha clientes crie sites sobre atualidades ou mesmo conteúdos de seu interesse como livros, jogos e esportes por exemplo</li>
+						<li>Divulgue seu trabalho para pessoas conhecidas e até mesmo em redes sociais e peça opniões</li>
+						<li>Foque nas opiniões negativas para melhorar e nas positivas para criar ainda mais conteúdo em seus pontos fortes</li>
+						<li>Foque em aprender lógica de programação</li>
+						<li>Foque em aprender uma linguagem de programação como JavaScript ou PHP (faça aulas das duas para saber com a qual você se adapta melhor)</li>
+						<li>Aprenda o básico da linguagem</li>
+						<li>Aprenda como desenvolver bancos de dados</li>
+						<li>Aprenda como conectar dados do site ao banco de dados</li>
+						<li>Aprenda como utilizar os principais Frameworks de cada linguagem</li>
+						<li>Crie projetos Back End (programação Web) complementando os projetos do Front End</li>
+						<li>Estude aspectos avançados de HTML, CSS e programação Web para tornar-se desenvolvedor(a) FullStack</li>
+					</ul>
